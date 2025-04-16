@@ -39,10 +39,6 @@
 
 体验来自全球 195 多个地点的 5500 多万 IP 的强大功能。
 
-[开始](https://dashboard.smartproxy.com/register?page=residential-proxies/pricing&planId=0)
-
-[Get started](https://dashboard.smartproxy.com/register?page=residential-proxies/pricing&planId=0)
-
 ## 中间商公司：我该选择哪一家？
 
 有一些中介公司提供 Instagram PVA 帐户。虽然它们基于相同的理念，但在选择购买 Instagram 帐户的平台之前，您应该了解一些差异。
